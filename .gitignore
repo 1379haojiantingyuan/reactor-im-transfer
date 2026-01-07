@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+bin/
+*.o
+
+# User data
+file_storage/
+
+# Temporary files
+test.cpp
+
+# IDE/Editor config
+.vscode/
+.idea/
+*.swp
+.DS_Store
